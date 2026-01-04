@@ -8,7 +8,7 @@ This is my submission for the React JS developer task. The goal was to build a m
 
 ##  Live Demo
 
-[Insert your Vercel or Netlify link here]
+[https://popx-app-m9h3.onrender.com/]
 
 ##  Tech Stack
 
@@ -26,7 +26,7 @@ This is my submission for the React JS developer task. The goal was to build a m
 ##  How to Run Locally
 
 1. **Clone the repo**:
-`git clone <your-github-repo-url>`
+`git clone https://github.com/bhavanishankar7075/REACTJS.git`
 2. **Install dependencies**:
 `npm install`
 3. **Start the dev server**:
